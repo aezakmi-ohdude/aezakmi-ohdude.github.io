@@ -1,1 +1,1 @@
-[[https://aezakmi-ohdude.github.io]]
+https://aezakmi-ohdude.github.io
